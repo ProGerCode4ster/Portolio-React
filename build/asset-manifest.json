@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/static/css/main.5b3a2750.css",
+    "main.js": "/static/js/main.c01e7c4f.js",
+    "static/media/avat4.jpg": "/static/media/avat4.713c9cc65c2799dce387.jpg",
+    "static/media/avat1.jpg": "/static/media/avat1.6045b07a7dcef86fe4fa.jpg",
+    "static/media/avat2.jpg": "/static/media/avat2.3377876f8641e0d8359c.jpg",
+    "static/media/avat3.jpg": "/static/media/avat3.8470dd3a64516f0e46d8.jpg",
+    "static/media/changer.jpg": "/static/media/changer.abc873ae7a1919baf7e3.jpg",
+    "static/media/avat5.jpg": "/static/media/avat5.c2041c1a830f64793168.jpg",
+    "static/media/changer.png": "/static/media/changer.8d55ddaf18302fd8e374.png",
+    "static/media/Djomo Resume new.docx.pdf": "/static/media/Djomo Resume new.docx.64d73ae5408256d4bc56.pdf",
+    "static/media/img5.png": "/static/media/img5.9cb8c305d5e59ba3d21f.png",
+    "static/media/img7.png": "/static/media/img7.956b59a8ee62ec4228ae.png",
+    "static/media/img8.png": "/static/media/img8.63773c701a3eb9d3ad41.png",
+    "index.html": "/index.html",
+    "main.5b3a2750.css.map": "/static/css/main.5b3a2750.css.map",
+    "main.c01e7c4f.js.map": "/static/js/main.c01e7c4f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5b3a2750.css",
+    "static/js/main.c01e7c4f.js"
+  ]
+}
