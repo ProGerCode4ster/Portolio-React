@@ -1,9 +1,9 @@
 {
-  "name": "Backend",
+  "name": "backend",
   "version": "1.0.0",
   "main": "index.js",
   "scripts": {
-    "Backend": "nodemon Server.js",
+    "backend": "nodemon Server.js",
     "start": "node Server.js"
   },
   "keywords": [],
@@ -11,7 +11,8 @@
   "license": "ISC",
   "description": "",
   "dependencies": {
-    "body-parser": "^1.20.2",    "cors": "^2.8.5",
+    "body-parser": "^1.20.2",
+    "cors": "^2.8.5",
     "dotenv": "^16.1.4",
     "express": "^4.18.2",
     "mongoose": "^7.2.2"

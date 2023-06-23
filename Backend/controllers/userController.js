@@ -1,8 +1,8 @@
-const registerUser = async (req, res ) => {
-    res,send("Register User");
-};
+// const registerUser = async (req, res ) => {
+//     res,send("Register User");
+// };
 
-module.exports={
+// module.exports={
 
-    registerUser,
-}
+//     registerUser,
+// }
