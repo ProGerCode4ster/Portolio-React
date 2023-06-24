@@ -1,10 +1,10 @@
 const express = require('express');
 const mongoose = require("mongoose");
-const projectRoute = require('./routes/projectRoute');
-const serviceRoute = require('./routes/serviceRoute');
-const testimonialRoute = require('./routes/testimonialRoute');
-const experienceRoute = require('./routes/experienceRoute');
-require('dotenv').config({path: './variables/.env'});
+const projectRoute = require('./routes/projectRoutes');
+const serviceRoute = require('./routes/serviceRoutes');
+const testimonialRoute = require('./routes/testimonialRoutes');
+const experienceRoute = require('./routes/experienceRoutes');
+require('dotenv').config({path: './.env'});
 const cors = require("cors")
 
 const app =express();
@@ -30,7 +30,7 @@ app.use( (req, res, next) =>{
     next();
 });
 app.use(cors({
-    "origin" : ["http://127.0.0.1:3000", "https://kenneportfolio.vercel.app"],
+    "origin" : ["http://127.0.0.1:3000", "https://myportfolio-react-czib.onrender.com/"],
     "methods" : ["GET", "POST", "DELETE", "PATCH"]
 }));
 
